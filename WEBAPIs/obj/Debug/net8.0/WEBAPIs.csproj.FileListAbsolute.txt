@@ -48,3 +48,4 @@ D:\IT course\WEB-APIs C#..Net on Postgresql\WEBAPIs\obj\Debug\net8.0\refint\WEBA
 D:\IT course\WEB-APIs C#..Net on Postgresql\WEBAPIs\obj\Debug\net8.0\WEBAPIs.pdb
 D:\IT course\WEB-APIs C#..Net on Postgresql\WEBAPIs\obj\Debug\net8.0\WEBAPIs.genruntimeconfig.cache
 D:\IT course\WEB-APIs C#..Net on Postgresql\WEBAPIs\obj\Debug\net8.0\ref\WEBAPIs.dll
+D:\IT course\WEB-APIs C#..Net on Postgresql\WEBAPIs\obj\Debug\net8.0\WEBAPIs.sourcelink.json

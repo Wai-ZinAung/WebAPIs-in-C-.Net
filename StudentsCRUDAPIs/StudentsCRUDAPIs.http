@@ -1,0 +1,6 @@
+@StudentsCRUDAPIs_HostAddress = http://localhost:5262
+
+GET {{StudentsCRUDAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
